@@ -46,6 +46,20 @@ export const products = [
     sizeChartLink: "images/clothing-size-chart.png"
   },
   {
+    id: "id1",
+    image: "images/products/umbrella.jpg ",
+    name: "Umbrella",
+    rating: {
+      stars: 4,
+      count: 198
+    },
+    priceCents: 1099,
+    keywords: [
+      "rain",
+      "umbrella"
+    ]
+  },
+  {
     id: "54e0eccd-8f36-462b-b68a-8182611d9add",
     image: "images/products/black-2-slot-toaster.jpg",
     name: "2 Slot Toaster - Black",
